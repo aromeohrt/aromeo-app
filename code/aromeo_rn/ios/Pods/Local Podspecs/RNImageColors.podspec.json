@@ -1,0 +1,27 @@
+{
+  "name": "RNImageColors",
+  "version": "1.2.4",
+  "summary": "Fetch prominent colors from an image.",
+  "license": "MIT",
+  "authors": {
+    "name": "Osama Qarem",
+    "email": "osamaqarem@gmail.com"
+  },
+  "homepage": "https://github.com/osamaq/react-native-image-colors",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/osamaq/react-native-image-colors.git",
+    "tag": "v1.2.4"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "pod_target_xcconfig": {
+    "SWIFT_VERSION": "5.0"
+  }
+}
