@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Aromeo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B7FE146E85E9F796B8CBECADA8A76359E6753898</string>
+				<key>dateExpires</key>
+				<string>10/29/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>L73U6G8CD9.app.aromeo.com</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>L73U6G8CD9</string>
+				<key>com.apple.external-accessory.wireless-configuration</key>
+				<true/>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Aromeo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5861e8b7-5000-480d-a92c-2b9d0e6cf93d</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: app.aromeo.com</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>L73U6G8CD9</string>
+				<key>name</key>
+				<string>Miscato Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
